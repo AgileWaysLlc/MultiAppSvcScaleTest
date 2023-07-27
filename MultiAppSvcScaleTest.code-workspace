@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "v1"
+		},
+		{
+			"path": "v2"
+		},
+		{
+			"path": "v3"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "v1/AppSvcScaleUpTest.sln"
+	}
+}
